@@ -1,0 +1,1174 @@
+{
+    "Web Development for Beginners": [
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "Hyper Transfer Markup Language",
+                "Hyper Text Markup Language",
+                "High Tech Markup Language",
+                "Hyper Tool Markup Language"
+            ],
+            "answer": "Hyper Text Markup Language"
+        },
+        {
+            "question": "Which tag is used to create a hyperlink in HTML?",
+            "options": [
+                "<link>",
+                "<a>",
+                "<href>",
+                "<url>"
+            ],
+            "answer": "<a>"
+        },
+        {
+            "question": "What does CSS stand for?",
+            "options": [
+                "Computer Style Sheets",
+                "Cascading Style Sheets",
+                "Creative Style System",
+                "Central Style System"
+            ],
+            "answer": "Cascading Style Sheets"
+        },
+        {
+            "question": "Which property is used to change text color in CSS?",
+            "options": [
+                "font-color",
+                "text-color",
+                "color",
+                "bgcolor"
+            ],
+            "answer": "color"
+        },
+        {
+            "question": "Which HTML tag is used for the largest heading?",
+            "options": [
+                "<h6>",
+                "<h3>",
+                "<h1>",
+                "<h4>"
+            ],
+            "answer": "<h1>"
+        },
+        {
+            "question": "Which CSS property controls text size?",
+            "options": [
+                "text-style",
+                "font-size",
+                "text-size",
+                "font-style"
+            ],
+            "answer": "font-size"
+        },
+        {
+            "question": "Which of the following is a JavaScript framework?",
+            "options": [
+                "Bootstrap",
+                "React",
+                "CSS Grid",
+                "HTML"
+            ],
+            "answer": "React"
+        },
+        {
+            "question": "How do you add a comment in HTML?",
+            "options": [
+                "// Comment",
+                "/* Comment */",
+                "<!-- Comment -->",
+                "# Comment"
+            ],
+            "answer": "<!-- Comment -->"
+        },
+        {
+            "question": "Which of the following is NOT a valid CSS unit?",
+            "options": [
+                "px",
+                "em",
+                "kg",
+                "%"
+            ],
+            "answer": "kg"
+        },
+        {
+            "question": "Which function is used to print in JavaScript?",
+            "options": [
+                "print()",
+                "console.log()",
+                "log()",
+                "display()"
+            ],
+            "answer": "console.log()"
+        },
+        {
+            "question": "What is the correct HTML structure?",
+            "options": [
+                "HTML->Head->Title->Body",
+                "Head->HTML->Body->Title",
+                "Title->HTML->Head->Body",
+                "Body->Head->HTML->Title"
+            ],
+            "answer": "HTML->Head->Title->Body"
+        },
+        {
+            "question": "Which of these is used to style a webpage?",
+            "options": [
+                "CSS",
+                "HTML",
+                "JavaScript",
+                "Python"
+            ],
+            "answer": "CSS"
+        },
+        {
+            "question": "Which HTML tag is used to define an unordered list?",
+            "options": [
+                "<ol>",
+                "<ul>",
+                "<li>",
+                "<list>"
+            ],
+            "answer": "<ul>"
+        },
+        {
+            "question": "Which language is used to add interactivity to web pages?",
+            "options": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python"
+            ],
+            "answer": "JavaScript"
+        },
+        {
+            "question": "What is the default display property of a <div> element?",
+            "options": [
+                "inline",
+                "block",
+                "flex",
+                "none"
+            ],
+            "answer": "block"
+        },
+        {
+            "question": "Which tag is used to create a table in HTML?",
+            "options": [
+                "<table>",
+                "<tr>",
+                "<td>",
+                "<tbl>"
+            ],
+            "answer": "<table>"
+        },
+        {
+            "question": "Which JavaScript function is used to select an element by ID?",
+            "options": [
+                "getElementById",
+                "querySelector",
+                "selectElement",
+                "findElement"
+            ],
+            "answer": "getElementById"
+        },
+        {
+            "question": "What does the \u2018alt\u2019 attribute in an <img> tag define?",
+            "options": [
+                "Image alignment",
+                "Alternative text",
+                "Image width",
+                "Image border"
+            ],
+            "answer": "Alternative text"
+        },
+        {
+            "question": "Which of the following is a CSS preprocessor?",
+            "options": [
+                "Sass",
+                "CSS3",
+                "Bootstrap",
+                "HTML5"
+            ],
+            "answer": "Sass"
+        }
+    ],
+    "App Development for Beginners": [
+        {
+            "question": "Which language is primarily used for Android development?",
+            "options": [
+                "Swift",
+                "Kotlin",
+                "JavaScript",
+                "C++"
+            ],
+            "answer": "Kotlin"
+        },
+        {
+            "question": "What does SDK stand for?",
+            "options": [
+                "Software Data Kit",
+                "System Development Kit",
+                "Software Development Kit",
+                "Standard Deployment Kit"
+            ],
+            "answer": "Software Development Kit"
+        },
+        {
+            "question": "Which IDE is commonly used for Android development?",
+            "options": [
+                "Eclipse",
+                "Visual Studio",
+                "Android Studio",
+                "NetBeans"
+            ],
+            "answer": "Android Studio"
+        },
+        {
+            "question": "What is the primary programming language for Flutter?",
+            "options": [
+                "Java",
+                "Dart",
+                "Kotlin",
+                "Swift"
+            ],
+            "answer": "Dart"
+        },
+        {
+            "question": "Which framework is used for cross-platform mobile development?",
+            "options": [
+                "React Native",
+                "Xamarin",
+                "Flutter",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What does API stand for in app development?",
+            "options": [
+                "Application Programming Interface",
+                "Automated Processing Input",
+                "Advanced Protocol Integration",
+                "Application Protocol Interface"
+            ],
+            "answer": "Application Programming Interface"
+        },
+        {
+            "question": "What is the purpose of Gradle in Android development?",
+            "options": [
+                "Code debugging",
+                "Performance testing",
+                "Build automation",
+                "UI designing"
+            ],
+            "answer": "Build automation"
+        },
+        {
+            "question": "Which database is commonly used for mobile apps?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "SQLite"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "What is an emulator in mobile development?",
+            "options": [
+                "A hardware device",
+                "A testing tool",
+                "A tool for app submission",
+                "A programming language"
+            ],
+            "answer": "A testing tool"
+        },
+        {
+            "question": "What is the main component of an Android app?",
+            "options": [
+                "Activity",
+                "Fragment",
+                "Intent",
+                "Service"
+            ],
+            "answer": "Activity"
+        },
+        {
+            "question": "What does MVVM stand for in mobile development?",
+            "options": [
+                "Model View Virtual Machine",
+                "Model View ViewModel",
+                "Mobile View Virtual Model",
+                "Module View Virtual Model"
+            ],
+            "answer": "Model View ViewModel"
+        },
+        {
+            "question": "Which is the official language for iOS app development?",
+            "options": [
+                "Swift",
+                "Objective-C",
+                "Java",
+                "Kotlin"
+            ],
+            "answer": "Swift"
+        },
+        {
+            "question": "Which file format is used for installing Android apps?",
+            "options": [
+                ".apk",
+                ".exe",
+                ".ipa",
+                ".jar"
+            ],
+            "answer": ".apk"
+        },
+        {
+            "question": "Which file contains the Android app configuration?",
+            "options": [
+                "AndroidManifest.xml",
+                "MainActivity.java",
+                "strings.xml",
+                "build.gradle"
+            ],
+            "answer": "AndroidManifest.xml"
+        },
+        {
+            "question": "What is the main purpose of an Intent in Android?",
+            "options": [
+                "Define UI layout",
+                "Start a new activity",
+                "Handle database queries",
+                "Optimize performance"
+            ],
+            "answer": "Start a new activity"
+        },
+        {
+            "question": "Which method is used to get user input in an Android app?",
+            "options": [
+                "getText()",
+                "setInput()",
+                "receiveInput()",
+                "fetchData()"
+            ],
+            "answer": "getText()"
+        },
+        {
+            "question": "Which of the following is a mobile app monetization method?",
+            "options": [
+                "In-app purchases",
+                "Advertisements",
+                "Subscriptions",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which lifecycle method is called when an activity is first created?",
+            "options": [
+                "onCreate()",
+                "onStart()",
+                "onResume()",
+                "onDestroy()"
+            ],
+            "answer": "onCreate()"
+        },
+        {
+            "question": "Which of the following is NOT a mobile app distribution platform?",
+            "options": [
+                "Google Play Store",
+                "Apple App Store",
+                "Amazon Appstore",
+                "GitHub"
+            ],
+            "answer": "GitHub"
+        }
+    ],
+    "Full Stack Development": [
+        {
+            "question": "Which language is primarily used for styling web pages?",
+            "options": [
+                "HTML",
+                "JavaScript",
+                "CSS",
+                "Python"
+            ],
+            "answer": "CSS"
+        },
+        {
+            "question": "Which of the following is NOT a frontend framework?",
+            "options": [
+                "React",
+                "Vue",
+                "Angular",
+                "Django"
+            ],
+            "answer": "Django"
+        },
+        {
+            "question": "What is the purpose of a middleware in Express.js?",
+            "options": [
+                "Handle HTTP requests",
+                "Connect frontend and backend",
+                "Process requests before final handling",
+                "Style web pages"
+            ],
+            "answer": "Process requests before final handling"
+        },
+        {
+            "question": "Which database is commonly used in MERN stack?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "Which technology is used for building responsive web designs?",
+            "options": [
+                "Bootstrap",
+                "jQuery",
+                "PHP",
+                "Flask"
+            ],
+            "answer": "Bootstrap"
+        },
+        {
+            "question": "Which command is used to initialize a Git repository?",
+            "options": [
+                "git start",
+                "git init",
+                "git new",
+                "git create"
+            ],
+            "answer": "git init"
+        },
+        {
+            "question": "What does CI/CD stand for?",
+            "options": [
+                "Continuous Integration and Continuous Deployment",
+                "Code Integration and Code Development",
+                "Continuous Installation and Continuous Debugging",
+                "Cloud Integration and Cloud Deployment"
+            ],
+            "answer": "Continuous Integration and Continuous Deployment"
+        },
+        {
+            "question": "Which HTTP method is used to update a resource?",
+            "options": [
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE"
+            ],
+            "answer": "PUT"
+        },
+        {
+            "question": "Which file is used to manage dependencies in Node.js?",
+            "options": [
+                "package.json",
+                "node_modules",
+                "index.js",
+                "app.js"
+            ],
+            "answer": "package.json"
+        },
+        {
+            "question": "Which of the following is a backend-as-a-service (BaaS) provider?",
+            "options": [
+                "Firebase",
+                "React",
+                "Bootstrap",
+                "jQuery"
+            ],
+            "answer": "Firebase"
+        },
+        {
+            "question": "Which of the following is a backend framework?",
+            "options": [
+                "React",
+                "Angular",
+                "Django",
+                "Bootstrap"
+            ],
+            "answer": "Django"
+        },
+        {
+            "question": "What is the main use of Node.js?",
+            "options": [
+                "Frontend development",
+                "Database management",
+                "Server-side scripting",
+                "Styling web pages"
+            ],
+            "answer": "Server-side scripting"
+        },
+        {
+            "question": "Which database is NoSQL?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "What does REST stand for?",
+            "options": [
+                "Representational State Transfer",
+                "Remote Execution and Service Transfer",
+                "Response and Execution State Transfer",
+                "None of the above"
+            ],
+            "answer": "Representational State Transfer"
+        },
+        {
+            "question": "Which of these is a full-stack JavaScript framework?",
+            "options": [
+                "Django",
+                "Laravel",
+                "MEAN",
+                "Flask"
+            ],
+            "answer": "MEAN"
+        },
+        {
+            "question": "What is the purpose of Express.js?",
+            "options": [
+                "Database management",
+                "Server-side web framework",
+                "Frontend UI design",
+                "Cloud hosting"
+            ],
+            "answer": "Server-side web framework"
+        },
+        {
+            "question": "Which protocol is used in REST APIs?",
+            "options": [
+                "FTP",
+                "HTTP",
+                "SMTP",
+                "SSH"
+            ],
+            "answer": "HTTP"
+        },
+        {
+            "question": "Which frontend framework is based on TypeScript?",
+            "options": [
+                "React",
+                "Angular",
+                "Vue",
+                "Bootstrap"
+            ],
+            "answer": "Angular"
+        },
+        {
+            "question": "Which of the following is NOT a version control system?",
+            "options": [
+                "Git",
+                "SVN",
+                "Docker",
+                "Mercurial"
+            ],
+            "answer": "Docker"
+        },
+        {
+            "question": "Which language is commonly used for writing backend APIs?",
+            "options": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Photoshop"
+            ],
+            "answer": "JavaScript"
+        }
+    ],
+    "Data Science for Beginners": [
+        {
+            "question": "Which library is used for data visualization in Python?",
+            "options": [
+                "NumPy",
+                "Pandas",
+                "Matplotlib",
+                "TensorFlow"
+            ],
+            "answer": "Matplotlib"
+        },
+        {
+            "question": "What does CSV stand for?",
+            "options": [
+                "Comma Separated Values",
+                "Common System Variables",
+                "Column Standard Variables",
+                "Computer Separated Values"
+            ],
+            "answer": "Comma Separated Values"
+        },
+        {
+            "question": "Which function is used to read a CSV file in Pandas?",
+            "options": [
+                "read.csv()",
+                "import_csv()",
+                "pd.read_csv()",
+                "load_csv()"
+            ],
+            "answer": "pd.read_csv()"
+        },
+        {
+            "question": "What is supervised learning?",
+            "options": [
+                "Training with labeled data",
+                "Training without labeled data",
+                "A type of unsupervised learning",
+                "Only for deep learning"
+            ],
+            "answer": "Training with labeled data"
+        },
+        {
+            "question": "Which algorithm is commonly used for classification?",
+            "options": [
+                "K-Means",
+                "Random Forest",
+                "Apriori",
+                "DBSCAN"
+            ],
+            "answer": "Random Forest"
+        },
+        {
+            "question": "Which library is widely used for numerical computing in Python?",
+            "options": [
+                "Pandas",
+                "NumPy",
+                "Scikit-learn",
+                "TensorFlow"
+            ],
+            "answer": "NumPy"
+        },
+        {
+            "question": "Which Python library is used for deep learning?",
+            "options": [
+                "TensorFlow",
+                "Matplotlib",
+                "Flask",
+                "OpenCV"
+            ],
+            "answer": "TensorFlow"
+        },
+        {
+            "question": "What is the purpose of a confusion matrix?",
+            "options": [
+                "Evaluating model accuracy",
+                "Data visualization",
+                "Feature selection",
+                "Data cleaning"
+            ],
+            "answer": "Evaluating model accuracy"
+        },
+        {
+            "question": "Which technique is used for reducing dimensionality in datasets?",
+            "options": [
+                "PCA",
+                "KNN",
+                "Random Forest",
+                "CNN"
+            ],
+            "answer": "PCA"
+        },
+        {
+            "question": "Which metric is commonly used to evaluate classification models?",
+            "options": [
+                "MAE",
+                "RMSE",
+                "Accuracy",
+                "Log-loss"
+            ],
+            "answer": "Accuracy"
+        },
+        {
+            "question": "What is feature engineering?",
+            "options": [
+                "Cleaning dataset",
+                "Creating new features from existing data",
+                "Deleting irrelevant data",
+                "Reducing dataset size"
+            ],
+            "answer": "Creating new features from existing data"
+        },
+        {
+            "question": "Which technique is used for handling missing data?",
+            "options": [
+                "Mean imputation",
+                "Dropping rows",
+                "Using regression",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is a time-series analysis used for?",
+            "options": [
+                "Image classification",
+                "Predicting future values based on past data",
+                "Text mining",
+                "Database management"
+            ],
+            "answer": "Predicting future values based on past data"
+        },
+        {
+            "question": "Which algorithm is commonly used for clustering?",
+            "options": [
+                "K-Means",
+                "Random Forest",
+                "SVM",
+                "Linear Regression"
+            ],
+            "answer": "K-Means"
+        },
+        {
+            "question": "What is the purpose of data normalization?",
+            "options": [
+                "Standardizing values in a dataset",
+                "Removing duplicate data",
+                "Handling categorical variables",
+                "None of the above"
+            ],
+            "answer": "Standardizing values in a dataset"
+        },
+        {
+            "question": "Which technique is used for feature selection?",
+            "options": [
+                "Principal Component Analysis",
+                "Random Forest Importance",
+                "Chi-square test",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is an outlier in a dataset?",
+            "options": [
+                "A data point that is significantly different from other data points",
+                "The average value of a dataset",
+                "A missing value",
+                "A duplicate data point"
+            ],
+            "answer": "A data point that is significantly different from other data points"
+        },
+        {
+            "question": "Which type of data does Natural Language Processing (NLP) deal with?",
+            "options": [
+                "Structured data",
+                "Text data",
+                "Image data",
+                "Time-series data"
+            ],
+            "answer": "Text data"
+        },
+        {
+            "question": "Which tool is commonly used for Big Data processing?",
+            "options": [
+                "Hadoop",
+                "Tableau",
+                "Excel",
+                "Scikit-learn"
+            ],
+            "answer": "Hadoop"
+        }
+    ],
+    "AI and ML using Python": [
+        {
+            "question": "Which Python library is most used for machine learning?",
+            "options": [
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "Matplotlib"
+            ],
+            "answer": "Scikit-learn"
+        },
+        {
+            "question": "Which type of neural network is used for image processing?",
+            "options": [
+                "RNN",
+                "CNN",
+                "GAN",
+                "LSTM"
+            ],
+            "answer": "CNN"
+        },
+        {
+            "question": "What is the purpose of a loss function in ML?",
+            "options": [
+                "Optimize model parameters",
+                "Store data",
+                "Transform input data",
+                "Generate new features"
+            ],
+            "answer": "Optimize model parameters"
+        },
+        {
+            "question": "Which activation function is commonly used in deep learning?",
+            "options": [
+                "ReLU",
+                "Sigmoid",
+                "Tanh",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which framework is used for deep learning?",
+            "options": [
+                "TensorFlow",
+                "Django",
+                "React",
+                "Flask"
+            ],
+            "answer": "TensorFlow"
+        },
+        {
+            "question": "What is backpropagation?",
+            "options": [
+                "A technique to compute gradients",
+                "A type of activation function",
+                "A type of machine learning model",
+                "A method for data preprocessing"
+            ],
+            "answer": "A technique to compute gradients"
+        },
+        {
+            "question": "Which algorithm is commonly used for text classification?",
+            "options": [
+                "Na\u00efve Bayes",
+                "K-Means",
+                "Random Forest",
+                "DBSCAN"
+            ],
+            "answer": "Na\u00efve Bayes"
+        },
+        {
+            "question": "What is a perceptron in neural networks?",
+            "options": [
+                "A type of activation function",
+                "A single-layer neural network",
+                "A convolutional layer",
+                "A loss function"
+            ],
+            "answer": "A single-layer neural network"
+        },
+        {
+            "question": "Which technique is used for feature selection in ML?",
+            "options": [
+                "PCA",
+                "Gradient Descent",
+                "Adam Optimizer",
+                "Cross-validation"
+            ],
+            "answer": "PCA"
+        },
+        {
+            "question": "Which ML technique is used for anomaly detection?",
+            "options": [
+                "Linear Regression",
+                "K-Means Clustering",
+                "Isolation Forest",
+                "Decision Trees"
+            ],
+            "answer": "Isolation Forest"
+        },
+        {
+            "question": "What does hyperparameter tuning help with?",
+            "options": [
+                "Improving model performance",
+                "Reducing dataset size",
+                "Increasing bias",
+                "Removing outliers"
+            ],
+            "answer": "Improving model performance"
+        },
+        {
+            "question": "Which evaluation metric is used for regression models?",
+            "options": [
+                "Accuracy",
+                "Precision",
+                "Mean Squared Error (MSE)",
+                "F1-score"
+            ],
+            "answer": "Mean Squared Error (MSE)"
+        },
+        {
+            "question": "What is the main advantage of using GPUs in deep learning?",
+            "options": [
+                "Faster matrix computations",
+                "Lower energy consumption",
+                "Higher data storage",
+                "Better hyperparameter tuning"
+            ],
+            "answer": "Faster matrix computations"
+        },
+        {
+            "question": "Which ML algorithm is commonly used for recommender systems?",
+            "options": [
+                "K-Means",
+                "Collaborative Filtering",
+                "DBSCAN",
+                "KNN"
+            ],
+            "answer": "Collaborative Filtering"
+        },
+        {
+            "question": "Which deep learning model is best suited for sequence prediction?",
+            "options": [
+                "CNN",
+                "RNN",
+                "Random Forest",
+                "SVM"
+            ],
+            "answer": "RNN"
+        },
+        {
+            "question": "What is the primary purpose of dropout in neural networks?",
+            "options": [
+                "Reduce overfitting",
+                "Increase training speed",
+                "Normalize input data",
+                "Improve accuracy"
+            ],
+            "answer": "Reduce overfitting"
+        },
+        {
+            "question": "Which optimization algorithm is commonly used in deep learning?",
+            "options": [
+                "Gradient Descent",
+                "Random Search",
+                "Grid Search",
+                "Na\u00efve Bayes"
+            ],
+            "answer": "Gradient Descent"
+        },
+        {
+            "question": "Which library is widely used for natural language processing (NLP)?",
+            "options": [
+                "OpenCV",
+                "NLTK",
+                "Matplotlib",
+                "Seaborn"
+            ],
+            "answer": "NLTK"
+        },
+        {
+            "question": "What is transfer learning in AI?",
+            "options": [
+                "Using a pre-trained model on a new task",
+                "Training a model from scratch",
+                "Generating new features",
+                "Creating synthetic data"
+            ],
+            "answer": "Using a pre-trained model on a new task"
+        },
+        {
+            "question": "Which type of ML model is commonly used for fraud detection?",
+            "options": [
+                "K-Means",
+                "Decision Trees",
+                "Anomaly Detection Models",
+                "Linear Regression"
+            ],
+            "answer": "Anomaly Detection Models"
+        }
+    ],
+    "Cloud Computing - AWS": [
+        {
+            "question": "What does AWS stand for?",
+            "options": [
+                "Amazon Web Service",
+                "Advanced Web System",
+                "Automated Web Solutions",
+                "Amazon Website System"
+            ],
+            "answer": "Amazon Web Service"
+        },
+        {
+            "question": "Which AWS service is used for serverless computing?",
+            "options": [
+                "EC2",
+                "Lambda",
+                "S3",
+                "RDS"
+            ],
+            "answer": "Lambda"
+        },
+        {
+            "question": "What is the main purpose of Amazon S3?",
+            "options": [
+                "Compute power",
+                "Object storage",
+                "Machine learning",
+                "Server hosting"
+            ],
+            "answer": "Object storage"
+        },
+        {
+            "question": "Which AWS service is used for managing databases?",
+            "options": [
+                "EC2",
+                "Lambda",
+                "RDS",
+                "S3"
+            ],
+            "answer": "RDS"
+        },
+        {
+            "question": "Which tool is used for AWS infrastructure as code?",
+            "options": [
+                "CloudFormation",
+                "IAM",
+                "Lambda",
+                "S3"
+            ],
+            "answer": "CloudFormation"
+        },
+        {
+            "question": "Which AWS service is used for virtual machine hosting?",
+            "options": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFront"
+            ],
+            "answer": "EC2"
+        },
+        {
+            "question": "What is the default storage class in Amazon S3?",
+            "options": [
+                "Glacier",
+                "Standard",
+                "Intelligent-Tiering",
+                "One-Zone Infrequent Access"
+            ],
+            "answer": "Standard"
+        },
+        {
+            "question": "Which AWS service is used for monitoring and logging?",
+            "options": [
+                "CloudTrail",
+                "CloudWatch",
+                "IAM",
+                "Route 53"
+            ],
+            "answer": "CloudWatch"
+        },
+        {
+            "question": "Which AWS database service provides NoSQL capabilities?",
+            "options": [
+                "DynamoDB",
+                "RDS",
+                "Redshift",
+                "Aurora"
+            ],
+            "answer": "DynamoDB"
+        },
+        {
+            "question": "Which AWS service is used for content delivery?",
+            "options": [
+                "S3",
+                "CloudFront",
+                "EC2",
+                "Elastic Beanstalk"
+            ],
+            "answer": "CloudFront"
+        },
+        {
+            "question": "What is the main advantage of AWS Auto Scaling?",
+            "options": [
+                "Manages database connections",
+                "Automatically adjusts resources based on demand",
+                "Improves data storage",
+                "Reduces latency"
+            ],
+            "answer": "Automatically adjusts resources based on demand"
+        },
+        {
+            "question": "Which AWS service is used for identity and access management?",
+            "options": [
+                "IAM",
+                "CloudTrail",
+                "KMS",
+                "CloudFormation"
+            ],
+            "answer": "IAM"
+        },
+        {
+            "question": "What is the purpose of AWS VPC?",
+            "options": [
+                "To create isolated network environments",
+                "To manage user authentication",
+                "To store large datasets",
+                "To deploy applications"
+            ],
+            "answer": "To create isolated network environments"
+        },
+        {
+            "question": "Which AWS service provides a managed Kubernetes solution?",
+            "options": [
+                "EKS",
+                "ECS",
+                "Lambda",
+                "CloudFront"
+            ],
+            "answer": "EKS"
+        },
+        {
+            "question": "What is the main advantage of using AWS Elastic Load Balancer (ELB)?",
+            "options": [
+                "Increases security",
+                "Distributes traffic among multiple instances",
+                "Improves database performance",
+                "Reduces storage costs"
+            ],
+            "answer": "Distributes traffic among multiple instances"
+        },
+        {
+            "question": "Which AWS service is used for data warehousing?",
+            "options": [
+                "RDS",
+                "DynamoDB",
+                "Redshift",
+                "S3"
+            ],
+            "answer": "Redshift"
+        },
+        {
+            "question": "Which AWS service allows deploying and managing applications easily?",
+            "options": [
+                "Elastic Beanstalk",
+                "CloudFormation",
+                "CloudFront",
+                "IAM"
+            ],
+            "answer": "Elastic Beanstalk"
+        },
+        {
+            "question": "Which AWS service provides secure key management?",
+            "options": [
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "VPC"
+            ],
+            "answer": "KMS"
+        },
+        {
+            "question": "Which pricing model does AWS use?",
+            "options": [
+                "Pay-as-you-go",
+                "Fixed monthly plans",
+                "Annual subscriptions",
+                "One-time payment"
+            ],
+            "answer": "Pay-as-you-go"
+        }
+    ]
+}
